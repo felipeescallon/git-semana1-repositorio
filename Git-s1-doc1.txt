@@ -1,1 +1,2 @@
+(MODIFICADO)
 Se ha creado el documento 'Git-s1-doc1.txt' satisfactoriamente
